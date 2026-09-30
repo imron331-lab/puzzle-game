@@ -1,0 +1,6 @@
+{
+  "name": "UrutAngka — Puzzle Susun Angka Cepat",
+  "description": "Game puzzle menyusun angka secara urut dengan mode kompetitif, mode latihan berpemandu, papan peringkat global, pencapaian harian, mode gelap, dan musik latar menenangkan yang dapat dimainkan tanpa internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
